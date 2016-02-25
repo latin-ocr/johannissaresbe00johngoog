@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johannissaresbe00johngoog/johannissaresbe00johngoog_0008.png"; bbox 0 0 2924 4974; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 463 1123 756">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 463 1123 756">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 463 1123 574; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 120 467 512 574; x_wconf 83' lang='lat' dir='ltr'><strong>·JOHANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 553 463 1123 571; x_wconf 83' lang='lat' dir='ltr'><strong>SARESBERIENSIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 431 647 878 756; baseline -0.009 0"><span class='ocrx_word' id='word_1_3' title='bbox 431 647 878 756; x_wconf 86' lang='lat' dir='ltr'><strong>ENTHETICUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 627 992 682 1052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 627 992 682 1052">
+     <span class='ocr_line' id='line_1_3' title="bbox 627 992 682 1052; baseline -0.036 0"><span class='ocrx_word' id='word_1_4' title='bbox 627 992 682 1052; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 72 1213 1229 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 72 1213 1229 1432">
+     <span class='ocr_line' id='line_1_4' title="bbox 72 1213 1229 1432; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 72 1311 471 1432; x_wconf 83' lang='lat' dir='ltr'><strong>DOGMATE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 537 1213 1229 1432; x_wconf 70' lang='lat' dir='ltr'>PHILbSOPHORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 273 2039 1053 2107">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 273 2039 1053 2107">
+     <span class='ocr_line' id='line_1_5' title="bbox 273 2039 1053 2107; baseline -0.003 -7"><span class='ocrx_word' id='word_1_7' title='bbox 273 2040 332 2107; x_wconf 75' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 354 2039 738 2101; x_wconf 83' lang='lat' dir='ltr'><strong>COMMENTARIIS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 760 2039 1053 2107; x_wconf 82' lang='lat' dir='ltr'>INSTRUCTUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 343 2415 973 2538">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 343 2415 973 2538">
+     <span class='ocr_line' id='line_1_6' title="bbox 343 2415 973 2538; baseline -0.003 -19"><span class='ocrx_word' id='word_1_10' title='bbox 343 2438 664 2519; x_wconf 74' lang='lat' dir='ltr'><strong>cflsslsTlANo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 692 2415 973 2538; x_wconf 76' lang='lat' dir='ltr'><strong>PETERSEN‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1466 4974">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1466 4974">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1466 4974; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1466 4974; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
